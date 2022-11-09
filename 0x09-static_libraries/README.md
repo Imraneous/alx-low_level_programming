@@ -1,1 +1,1 @@
-global code
+static
